@@ -1,0 +1,12 @@
+students = {
+    "Ali": 85,
+    "Ahmed": 72,
+    "Usman": 91,
+    "Hamza": 65,
+    "Ayesha": 88
+}
+
+result = sorted(students.items(), key = lambda items: items[1], reverse = True)
+top_3 = result[:3]
+
+print(top_3)

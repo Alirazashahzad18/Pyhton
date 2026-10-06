@@ -1,0 +1,5 @@
+Hello, I am Ali
+I am learning Python
+I am learning AI.
+Python is my first step towards AI
+Ali
